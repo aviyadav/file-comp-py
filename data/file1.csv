@@ -1,0 +1,8 @@
+acct_id, dollar_amt, name, Qty, date_fld
+1234, 123.45, George Maharis, 10, 1/1/2017
+1235, 0.45, Michael Bluth, 1, 1/1/2017
+1236, 1345, George Bluth, 4, 1/1/2017
+1237, 123456, Bob Loblaw, , 1/1/2017
+1237, 123456, Bob Loblaw, , 1/1/2017
+1238, 1.05, Lucille Bluth, 8, 1/1/2017
+1239, 1.05, Loose Seal Bluth, 29, 1/1/2017
